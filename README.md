@@ -4,7 +4,6 @@ Welcome to the Cliniker project repository! This is a React-based website aimed 
 
 ## Project Overview
 
-- **Website**: [Cliniker](https://alkaison.github.io/Health-Plus/ "Health Plus")
 - **Framework**: React.js
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
